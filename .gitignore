@@ -1,0 +1,8 @@
+# 개인 데이터와 실행 중 생기는 파일은 저장소에 올리지 않는다
+data/tripflow.db
+data/fx_cache.json
+tripflow_demo.html
+__pycache__/
+.pytest_cache/
+*.pyc
+.streamlit/secrets.toml
